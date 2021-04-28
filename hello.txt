@@ -1,5 +1,3 @@
 hello panda!hello git!
-123456789
-123456
-111111
-xiao pan
+hello world!
+hello xiaojie
